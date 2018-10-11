@@ -1,8 +1,3 @@
-# stress_relief
+# Stress
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A useless app! But at least you can press a button to see a smile!
